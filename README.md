@@ -1,1 +1,1 @@
-# full-session-automation-testing-cypress
+# cypress-automation-testing
